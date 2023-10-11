@@ -1,0 +1,44 @@
+item_id,sku,item_name,item_cat
+it_001,orgfer,Nitrogen (N),Organic Fertilizers
+it_002,inorfert,Urea,Inorganic Fertilizers
+it_003,insec,Insecticides,Insecticides
+it_004,fungi,Fungicides,Fungicides
+it_005,orgfer,Potassium (K),Organic Fertilizers
+it_006,orgfer,Phosphorus (P),Organic Fertilizers
+it_007,inorfert,Ammonium sulfate,Inorganic Fertilizers
+it_008,insec,Insecticides,Insecticides
+it_009,fungi,Fungicides,Fungicides
+it_010,orgfer,Nitrogen (N),Organic Fertilizers
+it_011,orgfer,potassium (K),Organic Fertilizers
+it_012,inorfert,Ammonium nitrate,Inorganic Fertilizers
+it_013,insec,Insecticides,Insecticides
+it_014,fungi,Fungicides,Fungicides
+it_015,herb,Herbicides,Herbicides
+it_016,orgfer,Phosphorus (P),Organic Fertilizers
+it_017,inorfert,Urea,Inorganic Fertilizers
+it_018,inorfert,Ammonium nitrate,Inorganic Fertilizers
+it_019,insec,Insecticides,Insecticides
+it_020,herb,Herbicides,Herbicides
+it_021,orgfer,Nitrogen (N),Organic Fertilizers
+it_022,inorfert,Ammonium sulfate,Inorganic Fertilizers
+it_023,insec,Insecticides,Insecticides
+it_024,fungi,Fungicides,Fungicides
+it_025,herb,Herbicides,Herbicides
+it_026,orgfer,Potassium (K),Organic Fertilizers
+it_027,inorfert,Ammonium sulfate,Inorganic Fertilizers
+it_028,insec,Insecticides,Insecticides
+it_029,fungi,Fungicides,Fungicides
+it_030,herb,Herbicides,Herbicides
+it_031,orgfer,Nitrogen (N),Organic Fertilizers
+it_032,inorfert,Urea,Inorganic Fertilizers
+it_033,orgfer,Potassium (K),Organic Fertilizers
+it_034,orgfer,Potassium (K),Organic Fertilizers
+it_035,herb,Herbicides,Herbicides
+it_036,orgfer,Potassium (K),Organic Fertilizers
+it_037,inorfert,Ammonium sulfate,Inorganic Fertilizers
+it_038,insec,Insecticides,Insecticides
+it_039,fungi,Fungicides,Fungicides
+it_040,herb,Herbicides,Herbicides
+it_041,orgfer,Nitrogen (N),Organic Fertilizers
+it_042,inorfert,Ammonium nitrate,Inorganic Fertilizers
+it_043,insec,Insecticides,Insecticides

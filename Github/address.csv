@@ -1,0 +1,59 @@
+﻿add_id,delivery_address1,delivery_city,delivery_zipcode
+1,Elma Sokak 12,Akyurt,6500
+2,Kiraz Caddesi 1,Beypazari,6600
+3,Aycicegi Sokagi 5,Polatli,6700
+4,Hasat Bulvari 89,Kahramankazan,6800
+5,Meyve Bahcesi Sokak 56,Haymana,6900
+6,Bag Caddesi 12,Golbasi,6000
+7,Fasulye Sokak 2,Cubuk,6100
+8,Arpa Sokagi 3,Elmadag,6200
+9,Bugday Caddesi 5,Bala,6300
+10,Uzum Caddesi 6,Yenimahalle,6400
+11,Nar Sokak 8,Mamak,6510
+12,Zeytin Caddesi 9,Sincan,6790
+13,Portakal Sokagi 5,Etimesgut,6730
+14,Mandalina Sokak 7,Altindag,6050
+15,Erik Caddesi 6,Kecioren,6370
+16,Kavun Sokagi 123,Cankaya,6590
+17,Seftali Caddesi 4,Pursaklar,6530
+18,Karpuz Sokak 5,Golbasi,6010
+19,Ayva Sokagi 9,Akyurt,6550
+20,Nar Bahce Sokak 12,Alanya,7000
+21,Portakal Caddesi 34,Manavgat,7300
+22,Uzum Sokaği 7,Serik,7500
+23,Mandalina Sokak 45,Kemer,7900
+24,Zeytin Caddesi 22,Kumluca,7320
+25,Limon Sokagi 18,Finike,7560
+26,Elma Caddesi 9,Demre,7580
+27,Armut Sokak 3,Kas,7590
+28,Çilek Caddesi 56,Aksu,7230
+29,Muz Sokagi 27,Gazipasa,7400
+30,Uzum Sokaği 12,Selcuklu,42000
+31,Kiraz Caddesi 34,Karatay,42100
+32,Elma Sokak 7,Meram,42200
+33,Portakal Caddesi 45,Eregli,42300
+34,Mandalina Sokak 22,Aksehir,42400
+35,Nar Bahce Sokak 18,Kulu,42500
+36,Armut Sokak 3,Ilgin,42600
+37,Ayva Sokagi 3,Seydisehir,42700
+38,Zeytin Caddesi 56,Bozkir,42800
+39,Limon Sokagi 27,Hadim,42900
+40,Uzum Sokaği 12,Alanya,7000
+41,Kiraz Caddesi 34,Manavgat,7300
+42,Elma Sokak 7,Serik,7500
+43,Hasat Bulvari 89,Kahramankazan,6800
+44,Meyve Bahcesi Sokak 56,Haymana,6900
+45,Portakal Caddesi 45,Meram,42200
+46,Armut Sokak 3,Ilgin,42600
+47,Ayva Sokagi 3,Seydisehir,42700
+48,Elma Caddesi 9,Demre,7580
+49,Limon Sokagi 18,Finike,7560
+50,Portakal Sokagi 5,Etimesgut,6730
+51,Mandalina Sokak 22,Aksehir,42400
+52,Zeytin Caddesi 56,Bozkir,42800
+53,Nar Bahce Sokak 18,Kulu,42500
+54,Arpa Sokagi 6,Kecioren,6370
+55,Bugday Caddesi 7,Cankaya,6590
+56,Fasulye Sokak 11,Cubuk,6100
+57,Karpuz Sokak 5,Golbasi,6010
+58,Portakal Caddesi 10,Kemer,7900
